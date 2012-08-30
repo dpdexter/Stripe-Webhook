@@ -1,0 +1,41 @@
+{
+  "object": "event",
+  "type": "transfer.created",
+  "created": 1326853478,
+  "livemode": false,
+  "data": {
+    "object": {
+      "amount": 1100,
+      "status": "pending",
+      "object": "transfer",
+      "summary": {
+        "charge_count": 10,
+        "net": 1100,
+        "adjustment_fee_details": [
+
+        ],
+        "charge_gross": 1000,
+        "refund_count": 10,
+        "charge_fee_details": [
+
+        ],
+        "validation_fees": 300,
+        "charge_fees": 300,
+        "refund_gross": 1000,
+        "validation_count": 0,
+        "refund_fees": 300,
+        "currency": "usd",
+        "adjustment_count": 0,
+        "adjustment_fees": 0,
+        "adjustment_gross": 0
+      },
+      "other_transfers": [
+
+      ],
+      "description": "STRIPE TRANSFER",
+      "id": "ach_00000000000000",
+      "date": 1345695446
+    }
+  },
+  "id": "evt_00000000000000"
+}

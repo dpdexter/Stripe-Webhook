@@ -1,0 +1,57 @@
+{
+  "object": "event",
+  "type": "invoice.updated",
+  "created": 1326853478,
+  "livemode": false,
+  "data": {
+    "object": {
+      "object": "invoice",
+      "next_payment_attempt": null,
+      "livemode": false,
+      "attempted": true,
+      "lines": {
+        "subscriptions": [
+          {
+            "amount": 5995,
+            "period": {
+              "end": 1350900376,
+              "start": 1348308376
+            },
+            "plan": {
+              "amount": 2995,
+              "object": "plan",
+              "livemode": false,
+              "trial_period_days": null,
+              "name": "Support Services",
+              "interval": "month",
+              "id": "2",
+              "currency": "usd"
+            }
+          }
+        ]
+      },
+      "subtotal": 5995,
+      "amount_due": 5995,
+      "period_start": 1345629916,
+      "starting_balance": 0,
+      "paid": true,
+      "attempt_count": 1,
+      "ending_balance": 0,
+      "discount": null,
+      "closed": true,
+      "date": 1345629991,
+      "id": "in_00000000000000",
+      "period_end": 1345629976,
+      "total": 5995,
+      "customer": "cus_00000000000000",
+      "currency": "usd",
+      "charge": "ch_00000000000000"
+    },
+    "previous_attributes": {
+      "lines": [
+
+      ]
+    }
+  },
+  "id": "evt_00000000000000"
+}

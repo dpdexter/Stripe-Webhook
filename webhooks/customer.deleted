@@ -1,0 +1,40 @@
+{
+  "object": "event",
+  "type": "customer.deleted",
+  "created": 1326853478,
+  "livemode": false,
+  "data": {
+    "object": {
+      "object": "customer",
+      "created": 1345662525,
+      "livemode": false,
+      "description": "Customer for david@codesly.com",
+      "account_balance": 0,
+      "email": null,
+      "subscription": null,
+      "delinquent": false,
+      "discount": null,
+      "id": "cus_00000000000000",
+      "active_card": {
+        "cvc_check": "pass",
+        "country": "US",
+        "exp_month": 1,
+        "type": "Visa",
+        "object": "card",
+        "address_state": null,
+        "last4": "4242",
+        "address_zip_check": null,
+        "exp_year": 2014,
+        "address_country": null,
+        "address_line1_check": null,
+        "address_line1": null,
+        "address_line2": null,
+        "fingerprint": "qqCB7mAxDB0gy8cm",
+        "address_city": null,
+        "name": null,
+        "address_zip": null
+      }
+    }
+  },
+  "id": "evt_00000000000000"
+}

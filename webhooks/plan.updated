@@ -1,0 +1,22 @@
+{
+  "object": "event",
+  "type": "plan.updated",
+  "created": 1326853478,
+  "livemode": false,
+  "data": {
+    "object": {
+      "amount": 2995,
+      "object": "plan",
+      "livemode": false,
+      "trial_period_days": null,
+      "name": "Support Services",
+      "interval": "month",
+      "id": "2_00000000000000",
+      "currency": "usd"
+    },
+    "previous_attributes": {
+      "name": "Old name"
+    }
+  },
+  "id": "evt_00000000000000"
+}

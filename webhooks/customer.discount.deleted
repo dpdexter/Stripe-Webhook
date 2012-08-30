@@ -1,0 +1,27 @@
+{
+  "object": "event",
+  "type": "customer.discount.deleted",
+  "created": 1326853478,
+  "livemode": false,
+  "data": {
+    "object": {
+      "object": "discount",
+      "end": 1353644157,
+      "start": 1345695357,
+      "id": "di_00000000000000",
+      "coupon": {
+        "object": "coupon",
+        "max_redemptions": null,
+        "livemode": false,
+        "duration_in_months": 3,
+        "redeem_by": null,
+        "id": "25OFF_00000000000000",
+        "percent_off": 25,
+        "duration": "repeating",
+        "times_redeemed": 0
+      },
+      "customer": "cus_00000000000000"
+    }
+  },
+  "id": "evt_00000000000000"
+}

@@ -1,0 +1,52 @@
+header {
+	margin: 15px 0 10px 15px;
+	border-bottom: 1px #E7E7E7 solid;
+}
+
+header h5 
+{
+	width: 155px;
+	float: left;
+	color: #CCC;
+}
+
+header img
+{
+	margin: 4px;
+	float: left;
+}
+
+#webhooks {
+	margin-top:10px;
+}
+
+#content h4 span {
+	color:#BBB;
+}
+
+label.error {
+color: #F00;
+}
+
+footer {
+	text-align: center;
+	margin: 20px;
+	border-top: 1px #E7E7E7 solid;
+	color: #999;
+}
+#results-div{
+	display: none;
+}
+
+#results-div a {
+	float: right;
+	color: #000;
+}
+#results-div a:hover {
+	text-decoration: none;
+	
+}
+
+#loader {
+	display: none;
+}

@@ -1,0 +1,32 @@
+{
+  "object": "event",
+  "type": "customer.subscription.created",
+  "created": 1326853478,
+  "livemode": false,
+  "data": {
+    "object": {
+      "object": "subscription",
+      "status": "active",
+      "trial_start": 1345629916,
+      "trial_end": 1345629976,
+      "plan": {
+        "object": "plan",
+        "amount": 5995,
+        "livemode": false,
+        "trial_period_days": 1,
+        "name": "Trial Plan",
+        "id": "3_00000000000000",
+        "interval": "month",
+        "currency": "usd"
+      },
+      "start": 1345629916,
+      "current_period_start": 1345629976,
+      "current_period_end": 1348308376,
+      "ended_at": null,
+      "cancel_at_period_end": false,
+      "canceled_at": null,
+      "customer": "cus_00000000000000"
+    }
+  },
+  "id": "evt_00000000000000"
+}

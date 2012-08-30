@@ -1,0 +1,54 @@
+{
+  "object": "event",
+  "type": "charge.refunded",
+  "created": 1326853478,
+  "livemode": false,
+  "data": {
+    "object": {
+      "object": "charge",
+      "created": 1345662525,
+      "amount": 1099,
+      "fee": 62,
+      "amount_refunded": 0,
+      "livemode": false,
+      "description": "Charge for david@codesly.com",
+      "disputed": false,
+      "paid": true,
+      "invoice": null,
+      "id": "ch_00000000000000",
+      "refunded": true,
+      "fee_details": [
+        {
+          "type": "stripe_fee",
+          "amount": 62,
+          "description": "Stripe processing fees",
+          "application": null,
+          "currency": "usd"
+        }
+      ],
+      "card": {
+        "cvc_check": "pass",
+        "country": "US",
+        "exp_month": 1,
+        "type": "Visa",
+        "object": "card",
+        "address_state": null,
+        "last4": "4242",
+        "address_zip_check": null,
+        "exp_year": 2014,
+        "address_country": null,
+        "address_line1_check": null,
+        "address_line1": null,
+        "address_line2": null,
+        "fingerprint": "qqCB7mAxDB0gy8cm",
+        "address_city": null,
+        "name": null,
+        "address_zip": null
+      },
+      "failure_message": null,
+      "currency": "usd",
+      "customer": "cus_00000000000000"
+    }
+  },
+  "id": "evt_00000000000000"
+}

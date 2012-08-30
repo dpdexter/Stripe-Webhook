@@ -1,0 +1,20 @@
+{
+  "object": "event",
+  "type": "invoiceitem.created",
+  "created": 1326853478,
+  "livemode": false,
+  "data": {
+    "object": {
+      "object": "invoiceitem",
+      "amount": 1000,
+      "livemode": false,
+      "description": "My First Invoice Item (created for API docs)",
+      "invoice": null,
+      "id": "ii_00000000000000",
+      "date": 1345695389,
+      "currency": "usd",
+      "customer": "cus_00000000000000"
+    }
+  },
+  "id": "evt_00000000000000"
+}
